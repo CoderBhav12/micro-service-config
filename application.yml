@@ -10,7 +10,7 @@ eureka:
 info:
   app:
     name: application
-    description: Your Application Description
+    description: It is my microservice application
 spring:
   config:
     activate:
