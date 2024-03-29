@@ -19,9 +19,6 @@ spring:
     name: Config-Default
   data:
     mongodb:
-     authentication-database: admin
-      username: admin
-      password: NAnO!2O23$*m0ng0db!!
-      database: NABI
-      port: 27017               
-      host: 44.242.158.48
+      host: localhost
+      port: 27017
+      database: MICROSERVICES
