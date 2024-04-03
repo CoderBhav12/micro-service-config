@@ -19,4 +19,4 @@ spring:
     mongodb:  
       host: localhost
       port: 27017
-      database: MICROSERVICES
+      database: MICROSERVICES-LIVE
